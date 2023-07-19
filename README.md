@@ -28,7 +28,7 @@ Run `Yelp Scrape Function.ipynb` in Jupyter Notebook. This script will prompt yo
 
 After the CSV is created, run `Yelp Summarize Function.ipynb`. This script will read the CSV file and generate a PDF report containing metadata about the restaurant and its reviews.
 
-Here is a sample output of the PDF report: 
+Here is a sample output of the PDF report: <br>
 (Food:Indian Food,  City:London)
 
 ![Sample Output](images/summary_review_test.png)
