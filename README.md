@@ -33,7 +33,7 @@ Here is a sample output of the PDF report:
 
 ![Sample Output](images/summary_review_test.png)
 
-To download the full PDF report, click [here](Dishoom_Covent_Garden_summary_report.pdf).
+To download the full PDF report, click [here](Dishoom_Covent%20Garden_summary_report.pdf).
 
 ## License
 This project is licensed under the Apache License 2.0. This is a permissive license whose main conditions require preservation of copyright and license notices. Contributors provide an express grant of patent rights. Licensed works, modifications, and larger works may be distributed under different terms and without source code.
