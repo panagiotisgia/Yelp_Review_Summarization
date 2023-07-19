@@ -1,4 +1,4 @@
-# Yelp | Web Scrape | Report Creation
+# Yelp | Web Scrape | Automated Report Creation
 
 This repository contains two Python scripts that allow you to scrape Yelp for restaurant reviews and generate a report in the form of a PDF. These scripts are written in Jupyter notebook and are intended for personal use.
 
@@ -27,6 +27,13 @@ git clone https://github.com/panagiotisgia/Yelp_Review_Summarization.git
 Run `Yelp Scrape Function.ipynb` in Jupyter Notebook. This script will prompt you to enter your desired food and city. Upon execution, it will create a CSV file with metadata of the top-rated restaurant regarding the input food and city along with all its reviews.
 
 After the CSV is created, run `Yelp Summarize Function.ipynb`. This script will read the CSV file and generate a PDF report containing metadata about the restaurant and its reviews.
+
+Here is a sample output of the PDF report: <br>
+(Food: Indian Food,  City: London)
+
+![Sample Output](images/summary_review_test.png)
+
+To download the full PDF report, click [here](Dishoom_Covent%20Garden_summary_report.pdf).
 
 ## License
 This project is licensed under the Apache License 2.0. This is a permissive license whose main conditions require preservation of copyright and license notices. Contributors provide an express grant of patent rights. Licensed works, modifications, and larger works may be distributed under different terms and without source code.
