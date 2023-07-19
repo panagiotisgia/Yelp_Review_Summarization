@@ -1,4 +1,4 @@
-# Yelp | Web Scrape | Report Creation
+# Yelp | Web Scrape | Automated Report Creation
 
 This repository contains two Python scripts that allow you to scrape Yelp for restaurant reviews and generate a report in the form of a PDF. These scripts are written in Jupyter notebook and are intended for personal use.
 
